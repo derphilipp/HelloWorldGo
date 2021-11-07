@@ -1,3 +1,3 @@
-module github.com/derphilipp/HelloWorldGo
+module github.com/derphilipp/helloworldgo
 
 go 1.17
